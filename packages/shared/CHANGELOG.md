@@ -1,5 +1,11 @@
 # @xstate/tools-shared
 
+## 1.1.4
+
+### Patch Changes
+
+- [#118](https://github.com/statelyai/xstate-tools/pull/118) [`58628f1`](https://github.com/statelyai/xstate-tools/commit/58628f182faeace8e61c995172995f98c9d623af) Thanks [@Andarist](https://github.com/Andarist)! - Fixed issues with typegen generation for quotes in tags and state names.
+
 ## 1.1.3
 
 ### Patch Changes
